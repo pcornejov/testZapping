@@ -58,13 +58,14 @@ test-zapping/
 ```
 
 5. **Endpoints principales:**:
-    Autenticación
+
+   Autenticación
 
     POST /api/auth/register: Registra un nuevo usuario.
     POST /api/auth/login: Inicia sesión con un usuario existente.
     POST /api/auth/logout: Cierra la sesión del usuario.
 
-    Streaming
+   Streaming
     
     GET /api/stream/playlist: Devuelve la playlist .m3u8 para el reproductor HLS.
     GET /api/stream/segments/:segment: Devuelve un segmento de video .ts.
