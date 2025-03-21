@@ -38,6 +38,7 @@ Asegúrate de tener instalados los siguientes programas:
 
     
 4. **Estructura del proyecto:**:
+```plaintext
 test-zapping/
 ├── backend/
 │   ├── server.js          # Configuración principal del servidor
@@ -54,6 +55,7 @@ test-zapping/
 │   ├── player.html        # Reproductor de video
 ├── [docker-compose.yml](http://_vscodecontentref_/1)     # Configuración de Docker
 └── [README.md](http://_vscodecontentref_/2)              # Documentación del proyecto
+```
 
 5. **Endpoints principales:**:
     Autenticación
