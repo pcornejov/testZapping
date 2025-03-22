@@ -27,7 +27,7 @@ Asegúrate de tener instalados los siguientes programas:
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/test-zapping.git
+   git clone https://github.com/pcornejov/testZapping.git
    cd test-zapping
 
 2. **Construye y ejecuta los contenedores:**:
