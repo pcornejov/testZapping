@@ -62,7 +62,6 @@ test-zapping/
 ### Autenticación
 - **POST /api/auth/register**: Registra un nuevo usuario.
 - **POST /api/auth/login**: Inicia sesión con un usuario existente.
-- **POST /api/auth/logout**: Cierra la sesión del usuario.
 
 ### Streaming
 - **GET /api/stream/playlist**: Devuelve la playlist `.m3u8` para el reproductor HLS.
