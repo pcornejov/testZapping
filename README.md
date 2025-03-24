@@ -47,8 +47,6 @@ test-zapping/
 │   │   ├── streamRoutes.js # Rutas de streaming
 │   ├── models/
 │   │   └── User.js        # Modelo de usuario
-│   ├── middleware/
-│   │   └── authMiddleware.js # Middleware de autenticación
 ├── frontend/
 │   ├── login.html         # Página de inicio de sesión
 │   ├── register.html      # Página de registro
